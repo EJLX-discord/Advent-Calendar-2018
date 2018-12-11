@@ -34,11 +34,11 @@
   
   [**Dec 19** - Skyz](#19)
   
-  [**Dec 20** - ](#20)
+  [**Dec 20** - Kei (Kevin)](#20)
   
   [**Dec 21** - ESPAlchemist](#21)
   
-  [**Dec 22** - ](#22)
+  [**Dec 22** - checkerpeck](#22)
   
   [**Dec 23** - ](#23)
     
@@ -65,7 +65,7 @@
 ## Week One・第１週目 
 
 ### December 11 - Shini <a name="11"></a>
-<img src="./Avatars/Shini.jpg" width="50" height="50" />
+<img src="./docs/Avatars/Shini.jpg" width="50" height="50" />
 
 #### アドベント・カレンダー２０１８
 

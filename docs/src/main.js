@@ -1,46 +1,26 @@
-
-
-Vue.component('entry', {
-  props: {
-    username: String, 
-    avatarURL: String, 
-    date: Number,
-    text: String,
-  },
-  methods: {
-    getImageURL: function() {
-      return 'Avatars/' + this.avatarURL;
-    },
-  },
-  template: `
-  <article class="journal" v:id="date">
-    <div class="journal__info">
-      <div class="journal__user">        
-        <img v-bind:src="getImageURL()" class="journal__avatar"/>
-        <h2>{{ username }}</h2>
-      </div>
-      <div class="journal__date">
-        December {{date}}
-      </div>
-    </div>
-    <div class="journal__content" v-html="text">
-      {{ text }}
-    </div>
-  </article>
-  `,
-
-});
-
+// Main Vue Controller
 var app = new Vue({
   el: '#app',
   data: {
     title: 'JPLX Advent Calendar 2018',
     posts: [],
-  }
+  },
+  components: {
+    'entry': entryComponent,
+    'calendar': calendarComponent,
+    'page-header': headerComponent,
+  },
 });
 
 
 // Reads through Entries directory for all entries
+// and appends them to the posts array
+
+// Entries are formatted as such:
+// Username
+// AvatarURL (In Avatars folder)
+// HTML Text
+
 for(var iter = 11; iter <= 31; ++iter) {
   var xhr = new XMLHttpRequest();
   xhr.open('GET', './Entries/entry-' + iter + '.html');
@@ -61,13 +41,14 @@ for(var iter = 11; iter <= 31; ++iter) {
         Vue.set(app.posts, currentIter - 11, {
           username,
           avatarURL,
-          date: currentIter, 
           text,
+          date: currentIter, 
           id: currentIter,
         });
       }
     };
   })();
+
   xhr.send();
 }
 

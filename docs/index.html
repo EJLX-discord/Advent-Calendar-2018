@@ -4,91 +4,22 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,height=device-height initial-scale=1">
     <title>Advent Calendar 2018</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style/style.css">
     <script src="src/canvas_snow.js" defer></script>
-    <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.min.js"></script>
   </head>
   <body>
     <canvas id="snow"></canvas>
+
     <div id="app">
-      <header class="header shadow">
-        <h1>{{ title }}</h1>
-      </header>
-      
-      
-      
-      <section class="calendar">
-        <div class="calendar__headers">
-          <div class="calendar__cell">日</div>
-          <div class="calendar__cell">月</div>
-          <div class="calendar__cell">火</div>
-          <div class="calendar__cell">水</div>
-          <div class="calendar__cell">木</div>
-          <div class="calendar__cell">金</div>
-          <div class="calendar__cell">土</div>
-        </div>
-        <div class="calendar__row">
-          <div class="calendar__cell calendar__cell--disabled">25</div>
-          <div class="calendar__cell calendar__cell--disabled">26</div>
-          <div class="calendar__cell calendar__cell--disabled">27</div>
-          <div class="calendar__cell calendar__cell--disabled">28</div>
-          <div class="calendar__cell calendar__cell--disabled">29</div>
-          <div class="calendar__cell calendar__cell--disabled">30</div>
-          <div class="calendar__cell calendar__cell--disabled">1</div>
-        </div>
-        <div class="calendar__row">
-          <div class="calendar__cell calendar__cell--disabled">2</div>
-          <div class="calendar__cell calendar__cell--disabled">3</div>
-          <div class="calendar__cell calendar__cell--disabled">4</div>
-          <div class="calendar__cell calendar__cell--disabled">5</div>
-          <div class="calendar__cell calendar__cell--disabled">6</div>
-          <div class="calendar__cell calendar__cell--disabled">7</div>
-          <div class="calendar__cell calendar__cell--disabled">8</div>
-        </div>
-        <div class="calendar__row">
-          <div class="calendar__cell calendar__cell--disabled">9</div>
-          <div class="calendar__cell calendar__cell--disabled">10</div>
-          <a class="calendar__cell calendar__cell--clickable" href="#11">11</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">12</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">13</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">14</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">15</a>
-        </div>
-        <div class="calendar__row">
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">16</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">17</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">18</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">19</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">20</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">21</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">22</a>
-        </div>
-        <div class="calendar__row">
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">23</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">24</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">25</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">26</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">27</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">28</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">29</a>
-        </div>
-        <div class="calendar__row">
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">30</a>
-          <a class="calendar__cell calendar__cell--clickable" href="#entry11">31</a>
-          <div class="calendar__cell calendar__cell--disabled">1</div>
-          <div class="calendar__cell calendar__cell--disabled">2</div>
-          <div class="calendar__cell calendar__cell--disabled">3</div>
-          <div class="calendar__cell calendar__cell--disabled">4</div>
-          <div class="calendar__cell calendar__cell--disabled">5</div>
-        </div>
-      </section>
-      
+      <page-header title="JPLX Advent Calendar 2018"></page-header>
+      <calendar></calendar>
       <entry v-for="post in posts" v-bind="post" :key="post.id" v-if="post !== undefined"></entry>
-
     </div>
-    
-    
 
+    <script src="src/components/header.js"></script>
+    <script src="src/components/calendar.js"></script>
+    <script src="src/components/entry.js"></script>
     <script src="src/main.js"></script>
   </body>
 </html>

@@ -1,0 +1,48 @@
+/* - - - - - Calendar Component - - - - - */
+.calendar {
+  margin: 50px auto 100px auto;
+  width: 80%;
+  max-width: 1000px;
+}
+
+.calendar__headers {
+  padding: 10px;
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-around;
+  background: rgba(230, 249, 255, 0.3);
+  font-weight: 500;
+}
+
+.calendar__row {
+  display: flex;
+  padding: 0 10px;
+}
+
+.calendar__cell {
+  flex: 1;
+  padding: 20px 0;
+  height: auto;
+  text-align: center;
+}
+
+.calendar__cell--clickable {
+  transition: background .2s, color .15s;
+  font-weight: 500;
+}
+
+.calendar__cell--clickable:hover {
+  background: rgba(52, 69, 75, 0.5);
+  color: white;
+  transition: background .2s, color .15s;
+}
+
+.calendar__cell--disabled {
+  color: #909caa;
+  transition: background .2s;
+}
+
+.calendar__cell--disabled:hover {
+  background: rgba(187, 206, 227, 0.14);
+  transition: background .2s, color .2s;
+}
