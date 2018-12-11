@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500');
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body, html {
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  color: #545e69;
+  height: 100%;
+  width: 100%;
+}
+
+/* - - - - - Special Modifiers - - - - - */
+
+.shadow {
+  box-shadow: 0px 2px 15px 0px rgba(171, 183, 183, 0.9);
+}
+
+.hidden {
+  display: none !important;
+}
+
+/* - - - - - Snow Canvas - - - - - */
+#snow {
+  position: fixed;
+  z-index: -1;
+  width: 100%;
+  height: 100%; 
+  
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(221, 227, 229, 0.5);
+} 
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  letter-spacing: 3px;
+  padding: 50px 25px;
+  text-align: center;
+}
+
+h4 {
+  margin-bottom: 15px;
+}
+
+h5 {
+  margin: 25px 0 10px 0;
+}
+
+p {
+  margin: 15px 0 10px 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+
+/* - - - - - Calendar Component - - - - - */
+.calendar {
+  margin: 50px auto 100px auto;
+  width: 80%;
+  max-width: 1000px;
+}
+
+.calendar__headers {
+  padding: 10px;
+  margin: 10px 0;
+  display: flex;
+  justify-content: space-around;
+  background: rgba(230, 249, 255, 0.3);
+  font-weight: 500;
+}
+
+.calendar__row {
+  display: flex;
+  padding: 0 10px;
+}
+
+.calendar__cell {
+  flex: 1;
+  padding: 20px 0;
+  height: auto;
+  text-align: center;
+}
+
+.calendar__cell--clickable {
+  transition: background .2s, color .15s;
+  font-weight: 500;
+}
+
+.calendar__cell--clickable:hover {
+  background: rgba(52, 69, 75, 0.5);
+  color: white;
+  transition: background .2s, color .15s;
+}
+
+.calendar__cell--disabled {
+  color: #909caa;
+  transition: background .2s;
+}
+
+.calendar__cell--disabled:hover {
+  background: rgba(187, 206, 227, 0.14);
+  transition: background .2s, color .2s;
+}
+
+
+/* - - - - - Journal Component - - - - - */
+.journal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto 75px auto;
+  width: 80%;
+  max-width: 1000px;
+}
+
+.journal__info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.journal__user {
+  display: flex;
+  align-items: center;
+}
+
+.journal__date {
+  color: #96aaa5;
+}
+
+.journal__avatar {
+  max-width: 30px;
+  max-height: 30px;
+  width: auto;
+  height: auto;
+  border-radius: 50%;
+  margin-right: 15px;
+  filter: saturate(0.8);
+}
+
+.journal__content {
+  width: 100%;
+  padding: 30px 10px;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+/* - - - - - Emojis - - - - - */
+.emoji--joy {
+  display: inline;
+  max-height: 1.2rem;
+  width: auto;
+  position: relative;
+  top: 2px;
+}
+
+
+/* - - - - - Basic Responsiveness - - - - - */
+@media only screen and (max-width: 520px) {
+  
+
+  
+  .journal__info {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .journal__user {
+    font-size: 0.6rem;
+  }
+  
+  .journal__date {
+    font-size: 0.7rem;
+    margin-top: 10px;
+  }
+
+  .journal__content {
+    font-size: 0.8rem;
+    line-height: 1.4;
+  }
+}
