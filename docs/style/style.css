@@ -50,6 +50,35 @@ a {
   background: rgba(221, 227, 229, 0.5);
 } 
 
+.floating-btn {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  border-radius: 50%;
+  width: 2.5rem;
+  height: 2.5rem;
+  background: rgba(230, 247, 255, 0.3);
+  border-top: 1px solid rgba(152, 170, 180, 0.3);
+  border-left: 1px solid rgba(152, 170, 180, 0.3);
+  border-bottom: 1px solid rgba(150, 194, 218, 0.3);
+  border-right: 1px solid rgba(150, 194, 218, 0.3);
+  cursor: pointer;
+  font-size: 20px;
+  transition: background .3s, color .2s;
+  color: rgb(189, 209, 219);
+}
+
+.floating-btn--hover {
+  background: rgb(207, 221, 228);
+  color: rgb(255, 255, 255);
+}
+
+.fas {
+  position: relative;
+  bottom: 1px;
+}
+
+
 /* - - - - - Special Modifiers - - - - - */
 
 .shadow {

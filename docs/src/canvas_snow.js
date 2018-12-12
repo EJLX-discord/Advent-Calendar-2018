@@ -4,6 +4,7 @@
   var html = document.querySelector('html');
   canvas.height = window.innerHeight;
   canvas.width = window.innerWidth;
+
   var SCALE = canvas.width / 700;
   var particles = [];
   var MAX_PARTICLES = Math.round(100 * SCALE);
@@ -11,9 +12,9 @@
   var WIND = 0.01;
   var ITER = 0;
   
-  var snowColors = ['rgb(179, 218, 241)', 'rgb(203, 227, 241)', 'rgb(227, 236, 241)'];
+  var snowColors = ['rgba(179, 218, 241, .5)', 'rgba(203, 227, 241, .5)', 'rgba(227, 236, 241, .5)'];
   
-  ctx.fillStyle = 'rgb(179, 218, 241)';
+  ctx.fillStyle = 'rgba(179, 218, 241, 0.5)';
   
   // - - - Snow Class - - -
   function Snow() {
@@ -43,10 +44,9 @@
     this.x = Math.round(this.x);
     this.y = Math.round(this.y);
 
-    this.yVelocity += rand(0.1, -0.05);
-    this.yVelocity = Math.abs(this.yVelocity);
+    this.yVelocity += Math.round(Math.random()) ? 0.001 : -0.0005;
 
-    this.xVelocity += WIND;
+    //this.xVelocity += WIND;
   }
   
   Snow.prototype.reset = function() {
@@ -58,7 +58,6 @@
 
   // - - - Animation Functions - - -
   function init() {
-    ctx.globalAlpha = 0.5;
     for(var i = 0; i < MAX_PARTICLES; i++) {
       particles.push(new Snow());
     }
@@ -68,10 +67,11 @@
   function updateSnow() {
     clearCanvas();
     for(var i = 0; i < MAX_PARTICLES; ++i) {
-      particles[i].draw();
       particles[i].update();
+      particles[i].draw();
+
     }
-    WIND = (Math.cos(ITER) + Math.pow(Math.sin(ITER), 2)) / 700;
+    WIND = Math.cos(ITER)/ 500;
     ITER += 0.001;
     requestAnimationFrame(updateSnow);
   }

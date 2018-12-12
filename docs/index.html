@@ -5,12 +5,13 @@
     <meta name="viewport" content="width=device-width,height=device-height initial-scale=1">
     <title>Advent Calendar 2018</title>
     <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
     <script src="src/canvas_snow.js" defer></script>
     <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.min.js"></script>
   </head>
   <body>
     <canvas id="snow"></canvas>
-
+    <button class="floating-btn"><i class="fas fa-angle-double-up"></i></button>
     <div id="app">
       <page-header title="JPLX Advent Calendar 2018"></page-header>
       <calendar></calendar>
@@ -21,5 +22,6 @@
     <script src="src/components/calendar.js"></script>
     <script src="src/components/entry.js"></script>
     <script src="src/main.js"></script>
+    <script src="src/bottom_button.js"></script>
   </body>
 </html>
