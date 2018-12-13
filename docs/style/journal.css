@@ -44,6 +44,12 @@
   line-height: 1.4;
 }
 
+.journal__image {
+  margin-top: 30px;
+  border-radius: 4px;
+  box-shadow: 2px 4px 7px -1px rgba(72,88,107,0.41);
+}
+
 /* - - - - - Emojis - - - - - */
 .emoji--joy {
   display: inline;

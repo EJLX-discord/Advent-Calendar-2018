@@ -101,3 +101,29 @@ ___
 そのめいぐるみは友達だった。人間の友達を少し戻った。私のめいぐるみがいつも私のそばにあるので、私のめいぐるみは家族ある。
 
 今時、私はめいぐるみを買っている。ふもふものめいぐるみが好き。でもそのめいぐるみが高い。しかし、ふもはフワフワなめいぐるみです。時々、私はふもと会社に行く。みんなは私のふもが大好き。かわいいだから :3.
+
+___
+
+### December 13 - Sorana <a name="13"></a>
+<img src="./docs/Avatars/Sorana.jpg" width="50" height="50" />
+
+#### Advent Calendar: the 13th of December 2018 
+##### My favorite thing
+
+One of my favorite things is handcrafts.<br/>
+I think I like it since when I was a child.<br/>
+The oldest thing I made as far as I remember was a embroidered pen case made from felts when I was in 4th grade of elementary school.<br/>
+I made it as a birthday present for my mother. <br/>
+And I also made baby clothes when my children were small.<br/>
+Anyway, I still love to do handcraft, and recently, the most favorite handcraft is a leathercraft.<br/>
+Especially, I love to make it with patchworking from a lot of pieces of leather rather than making by a big sheet of leather.<br/>
+I usually decide a theme when I make them.<br/>
+The theme is come up when I see a piece of leather.<br/>
+For example, when I saw a scaly blue leather, I imaged "a little mermaid".<br/>
+and then, I looked inside a big basket, which there are a lot of pieces of leather in it, and picked out some leathers that fits the image.<br/>
+Furthermore, I searched an internet and found a button of ship at online shop.
+And the wallet, which I posted below this essay,  is what I imaged and completed.
+the most fun time is when I am imagining from a piece of leather.<br/>
+I am looking forward to finding out a new leather which gives me a good inspiration as ever.
+
+<img src="./docs/Images/Sorana.jpg" alt="Sorana's wallet" height="300px" />

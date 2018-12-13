@@ -12,7 +12,7 @@
   var WIND = 0.01;
   var ITER = 0;
   
-  var snowColors = ['rgba(179, 218, 241, .5)', 'rgba(203, 227, 241, .5)', 'rgba(227, 236, 241, .5)'];
+  var snowColors = ['rgba(179, 218, 241, .5)', 'rgba(203, 227, 241, .6)', 'rgba(227, 236, 241, .4)'];
   
   ctx.fillStyle = 'rgba(179, 218, 241, 0.5)';
   
@@ -58,6 +58,7 @@
 
   // - - - Animation Functions - - -
   function init() {
+    ctx.filter = 'blur(1px)';
     for(var i = 0; i < MAX_PARTICLES; i++) {
       particles.push(new Snow());
     }
