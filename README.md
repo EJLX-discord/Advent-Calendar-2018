@@ -127,3 +127,23 @@ the most fun time is when I am imagining from a piece of leather.<br/>
 I am looking forward to finding out a new leather which gives me a good inspiration as ever.
 
 <img src="./docs/Images/Sorana.jpg" alt="Sorana's wallet" height="300px" />
+
+___
+
+### December 14 - 1to2 <a name="14"></a>
+<img src="./docs/Avatars/1to2.jpg" width="50" height="50" />
+
+#### アドベントカレンダー ２０１８年１２月１４日
+
+十三歳の時(2012年)に中国に連れて行かれたことで学校にいけなくなり、友達との連絡も失った。外国人・外国育ちだとバレたらスリに狙われたりボッタクリ被害に遭ってもおかしくないから中国語がぎこちなかった私は声を出すのが怖くなってきた。長期間誰ともしゃべらず、家で引きこもっていた。
+
+新年の抱負は３つある
+
+日本で職業訓練を受けるまたは志望大学に受かること。
+
+恐怖症を克服してアメリカを離れてから初の友達を作ること。
+
+不幸を嘆くより自分の置かれた状況を受け入れて配られたカードで勝負していきたい。
+
+シニさんの著作「Shini in Paris　スーパーエクストラデラックスエディション日本語版」を待ち侘びています。
+そしてこのサーバの皆さんと来年のこの頃に再び会えるならこの上なく嬉しいことだと思います。
