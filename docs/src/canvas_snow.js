@@ -7,7 +7,7 @@
 
   var SCALE = canvas.width / 700;
   var particles = [];
-  var MAX_PARTICLES = Math.round(100 * SCALE);
+  var MAX_PARTICLES = 100;
   
   var WIND = 0.01;
   var ITER = 0;
