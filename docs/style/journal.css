@@ -48,10 +48,20 @@
   margin-top: 30px;
   border-radius: 4px;
   box-shadow: 2px 4px 7px -1px rgba(72,88,107,0.41);
+  width: 50%;
+  display: block;
+}
+
+.journal-message--quoted {
+  padding: 20px;
+  background: rgba(225, 232, 240, 0.274);
+  border-radius: 5px;
+  font-size: 0.8rem;
+  line-height: 1.4rem;
 }
 
 /* - - - - - Emojis - - - - - */
-.emoji--joy {
+.emoji {
   display: inline;
   max-height: 1.2rem;
   position: relative;

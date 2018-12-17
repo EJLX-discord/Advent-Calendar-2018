@@ -177,3 +177,52 @@ ___
 　不明な点に対して、色々対処法がある。経験者に聞く人がいれば、自分で調べて解決する人もいる。自立でやらないといけないと思っていた私のせいで、その日の計画が丸つぶれになってしまった。私の考え方はただの傲慢だと気付いた。
 
 　私のような失敗を回避する為、他の人に相談するのは恥ではないと忘れないでください。諺にもある通り、「聞くは一時の恥、聞かぬは一生の恥」だ。
+___
+
+### December 17 - Stella <a name="17"></a>
+<img src="./docs/Avatars/Stella.jpg" width="50" height="50" />
+
+#### Advent Calendar: the 17th of December 2018
+##### My new year's resolution
+
+Hello members! I'm Stella.
+At first, look at this link.
+
+> Hi! Im Stella. Im from JP. I really want learn more Englsih and I dream of the day, I speach English perfectly. My English is pretty bad. So I go to eng_chat, just_hanging_out  etc, and enjoy learn to English. If you senpais see me, please talk to me, then correct my bad English.Thank you...
+ステラと申します。英語の勉強がしたくてたまらないので、みなさん私の話す英語が間違えてたら教えて下さい。
+短いですが、これで終わりにします。よろしくおねがいします <img src="./docs/Emojis/blobPeek.png" height="17px" />
+
+This message is my self introduction in May.
+I wonder how much I'm getting better at speaking English.
+And yes, I chose this theme because I want to study English more and more in 2019! 
+So my new year's resolution is "speaking English like a Japanese flight attendant"
+I don't mean I want to be a flight attendant, but don't you think they are really cool and they can speak English fluently?
+
+My old days dream was I wanted to be a Japanese secretary.
+They are so smart and cool... And I guess they can speak English perfectly.
+But unfortunately, I really didn't like studying English when I was a student.
+Because I couldn't understand what my teacher was saying!!
+Present progressive...??? Past perfect...??? Be verbs...!!!???
+Then, I stopped thinking about English.
+I was like,
+"Haha~ we are Japanese, who does care about English? We don't need that"
+But... Yes, I was wrong.
+
+I'm currently working at my office. And there are lots of coworkers here(only seniors in my office though).
+Some seniors can reply E-mail for overseas people!!
+And I ask how is your English skill to one senior. Then she said,
+"Um~. I don't know, but I only have Eiken grade 3"
+I was shocked very much...
+I have that grade, but I can't do that like her...
+Also that grade is for junior high school students!!!!(I got that when I was 15 years old)
+So she learned English herself!
+My sense of rivalry was heating up.
+I want to be cooler than 2018 in 2019!!!!
+
+I only use this server for studying English. If you guys think,
+"Oh, Stella's English is improved! Better than that introduction!"
+Then, because of you guys!
+Keep being nice for English learners!
+I'll do my best for Japanese learners!!
+Thank you for talking with me everyone, every times!
+And thank you for reading! Bye bye~

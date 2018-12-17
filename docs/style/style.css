@@ -16,6 +16,13 @@ body, html {
   color: #545e69;
   height: 100%;
   width: 100%;
+  transition: color 1s, background 1.5s;
+}
+
+.body--dark {
+  color: white;
+  background: #141414;
+  transition: color 1s, background 1.5s;
 }
 
 h1 {
@@ -56,20 +63,26 @@ li {
 
 .floating-btn {
   position: fixed;
-  bottom: 30px;
-  right: 30px;
+
   border-radius: 50%;
   width: 2.5rem;
   height: 2.5rem;
-  background: rgba(230, 247, 255, 0.3);
-  border-top: 1px solid rgba(152, 170, 180, 0.3);
-  border-left: 1px solid rgba(152, 170, 180, 0.3);
-  border-bottom: 1px solid rgba(150, 194, 218, 0.3);
-  border-right: 1px solid rgba(150, 194, 218, 0.3);
+  background: rgba(230, 247, 255, 0.4);
+  border: none;
   cursor: pointer;
   font-size: 20px;
   transition: background .3s, color .2s;
   color: rgb(189, 209, 219);
+}
+
+.floating-btn--totop {
+  bottom: 30px;
+  right: 30px;
+}
+
+.floating-btn--todark {
+  bottom: 90px;
+  right: 30px;
 }
 
 .floating-btn--hover {
@@ -86,7 +99,7 @@ li {
 /* - - - - - Special Modifiers - - - - - */
 
 .shadow {
-  box-shadow: 0px 2px 15px 0px rgba(171, 183, 183, 0.9);
+  box-shadow: 0px 2px 15px 0px rgba(171, 183, 183, 0.5);
 }
 
 .hidden {

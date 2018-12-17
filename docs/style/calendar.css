@@ -27,14 +27,14 @@
 }
 
 .calendar__cell--clickable {
-  transition: background .2s, color .15s;
+  transition: background .2s;
   font-weight: 500;
 }
 
 .calendar__cell--clickable:hover {
   background: rgba(52, 69, 75, 0.5);
   color: white;
-  transition: background .2s, color .15s;
+  transition: background .2s;
 }
 
 .calendar__cell--disabled {
