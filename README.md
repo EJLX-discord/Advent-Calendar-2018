@@ -150,7 +150,7 @@ ___
 
 ___
 
-### December 15 - 1to2 <a name="15"></a>
+### December 15 - Dukky_ <a name="15"></a>
 <img src="./docs/Avatars/Dukky_.jpg" width="50" height="50" />
 
 #### アドベント・カレンダー２０１８ 12月1５日
@@ -164,7 +164,7 @@ ___
 ahahahaha 完璧ね
 ___
 
-### December 16 - 1to2 <a name="16"></a>
+### December 16 - Zeri <a name="16"></a>
 <img src="./docs/Avatars/Zeri.jpg" width="50" height="50" />
 
 #### アドベント・カレンダー２０１８  12月16日
