@@ -243,3 +243,22 @@ In fact, we could not research some of penguins enough to understand their lives
 As a last, I introduce my favourite penguin to you; it’s Chin- strap penguin. Their habitats are placed in Sub-Antarctic Islands. The reason why I love them most is their face. Look for it if you got an interest because that is the best way to have you know about them. 
 
 I hope some will be a fun of these cutest birds 😃 thank you.
+
+___
+
+### December 19 - Skyz <a name="19"></a>
+<img src="./docs/Avatars/Skyz.jpg" width="50" height="50" />
+
+#### スカイズのアドベントカレンダー！
+
+おそらくはすごく詰まらないので、本当に読みたければ我慢してください！
+
+新年の抱負は来年を今年よりもっといいことをする。というと、来年もっと勉強をすると僕自身を成長させる。来年を今年よりうまくすることは多分全然難しくないかもしれない。その結果を達するためにできる限り頑張る！それに日本語にももっとうまくなるためにこのサーバーでは話し続けるつもりだ。今後もよろしくおねがいします~
+
+僕の好きなものは２つがある。ぬいぐるみと食べ物だ。誰かがもうぬいぐるみについて書いてあったので、短くする。ぬいぐるみとは、絶対に裏切らないふわふわもふもふという存在である。それはぬいぐるみだ。ぬいぐふるみ大好きだ。生まれ日からテディというクマぬいぐるみがもっていて、ずっと一緒にいて大好きな相棒だ。ぬいぐるみが相棒であるとは変かどうかしらないけど、全然構わない。下の写真でテディに挨拶をしてください。
+
+それで食べ物。沢山食べ物が好きで、辛い物や、甘い物や、肉や、魚だ。野菜は嫌だ。いつも食べすぎている。体に悪いことがちゃんとわかっているけど一生で食べるのは一番幸せのことだ。でも結局、一番美味しいものとはやはりいい友達と一緒に食べる物だ！
+
+全部を読んでくれてありがとうございました！
+
+<img src="./docs/Images/Skyz.jpg" alt="Plush Bear" height="300px" />
