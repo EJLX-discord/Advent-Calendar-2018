@@ -415,3 +415,20 @@ ___
 皆と日本語で簡単にいろんなことについて話したり、他の初心者にお手伝いできるようになりたい。
 
 それが、私の New Year's Resolution です。
+
+___
+
+### December 25 - Morisi <a name="25"></a>
+<img src="./docs/Avatars/Morisi.jpg" width="50" height="50" />
+
+#### Advent Calendar, December 25
+
+##### "My favorite thing"
+
+I love watching movies. Movies broaden your knowledge about acting, photographing, lighting, editing, producing, costumes, story-telling and even historical or political background of a particular event.  
+
+I “study” filming just for fun, but I’ve ever made some videos for wedding parties of my friends. I learned lots of things through the process and found movies are not real at all even if it’s categorized as a documentary film. The fact, however, makes it fascinating for me to watch movies because it means that you can see things through their eyes, sharing their passions or philosophies. I believe movies have an endemic language and cannot be translated into natural language; therefore I rarely talk or write about films though I adore them.  
+
+So I feel every movie is worth watching unless I give up finding something from it, say, what and how they tried to express in the work or how people reacted to it. Compared to the last year, I don't think I watched many movies this year. I hope I have much more encounters next year.   
+
+Thank you very much for reading. Merry Christmas for everyone.  
