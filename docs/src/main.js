@@ -21,7 +21,7 @@ var app = new Vue({
 // AvatarURL (In Avatars folder)
 // HTML Text
 
-for(var iter = 11; iter <= 31; ++iter) {
+for(var iter = 11; iter <= 33; ++iter) {
   var xhr = new XMLHttpRequest();
   xhr.open('GET', './Entries/entry-' + iter + '.html');
 
@@ -38,12 +38,19 @@ for(var iter = 11; iter <= 31; ++iter) {
         var avatarEndIdx = this.response.indexOf('\n', nameEndIdx + 1);
         var avatarURL = this.response.slice(nameEndIdx, avatarEndIdx);
         var text = this.response.substr(avatarEndIdx);
+        var date = currentIter;
+        var month = 'December';
+        if (date > 31) {
+          date = 1;
+          month = 'January';
+        }
         Vue.set(app.posts, currentIter - 11, {
           username,
           avatarURL,
           text,
-          date: currentIter, 
-          id: currentIter,
+          date,
+          month,
+          id: date,
         });
       }
     };
@@ -51,5 +58,6 @@ for(var iter = 11; iter <= 31; ++iter) {
 
   xhr.send();
 }
+
 
 

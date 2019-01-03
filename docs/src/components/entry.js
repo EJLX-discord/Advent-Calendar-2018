@@ -3,6 +3,7 @@ var entryComponent = {
     username: String, 
     avatarURL: String, 
     date: Number,
+    month: String,
     text: String,
   },
   methods: {
@@ -18,7 +19,7 @@ var entryComponent = {
         <h2>{{ username }}</h2>
       </div>
       <div class="journal__date">
-        December {{date}}
+        {{month}} {{date}}
       </div>
     </div>
     <div class="journal__content" v-html="text">

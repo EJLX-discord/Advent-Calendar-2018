@@ -42,23 +42,27 @@
   
   [**Dec 23** - Pentacal](#23)
     
-  [**Dec 24** - ](#24)
+  [**Dec 24** - Kakashi](#24)
   
 ### Week Three・第３週目
 
-  [**Dec 25** - ](#25)
+  [**Dec 25** - Morisi](#25)
   
   [**Dec 26** - newyams99 | にーも](#26)
   
-  [**Dec 27** - ](#27)
+  [**Dec 27** - イース](#27)
   
-  [**Dec 28** - ](#28)
+  [**Dec 28** - fluff](#28)
   
-  [**Dec 29** - ](#29)
+  [**Dec 29** - Kaito](#29)
   
-  [**Dec 30** - ](#30)
+  [**Dec 30** - Zappi](#30)
     
-  [**Dec 31** - ](#31)
+  [**Dec 31** - 蟻隠](#31)
+
+### Week Four・第４週目
+
+  [**Jan 1** - Riri & Ririnne](#1)
 
 <br>
 
@@ -227,7 +231,9 @@ I'll do my best for Japanese learners!!
 Thank you for talking with me everyone, every times!
 And thank you for reading! Bye bye~
 
-___
+<br><br>
+
+## Week Two・第２週目 
 
 ### December 18 - 魁星(kaisei)-INFP <a name="18"></a>
 <img src="./docs/Avatars/Kaisei.jpg" width="50" height="50" />
@@ -416,7 +422,10 @@ ___
 
 それが、私の New Year's Resolution です。
 
-___
+
+<br><br>
+
+## Week Three・第３週目 
 
 ### December 25 - Morisi <a name="25"></a>
 <img src="./docs/Avatars/Morisi.jpg" width="50" height="50" />
@@ -478,3 +487,125 @@ ___
 
 ### December 28 - Fluff <a name="28"></a>
 <img src="./docs/Avatars/Fluff.jpg" width="50" height="50" />
+
+#### Advent Calendar <br> 28th of December 2018
+##### An interesting experience I had
+
+I love meeting people from all over the world and especially get excited when I encounter or experience things I've never expected.
+
+One day, I was chatting to a person from South America on a game server and noticed birds' singing in the background. I asked him whether he had pet birds but was told those songs were from tree frogs. His house was located in the countryside and tree frogs were everywhere outside his house he said.
+
+I was astonished. My father had a pet tree frog before but they are rare in Japan. They only live near very clean streams.
+
+Listening to those frogs' beautiful and magical songs, I started to see the guy's house surrounded with tall green trees in my mind. On the branches, many tree frogs were singing and there was a pure stream running quietly by the trees.
+I imagined it was humid there and his place was nothing like my place.
+But we were chatting and spending a little time together even his place was across the globe to mine.
+
+I have a couple of other online friends in the Southern Hemisphere.
+I just think it's fascinating that their places are in summer when my place is in winter.
+The earth is so big, yet we can talk like we are next to each other and play games together.
+
+I really love hearing things I've never thought or heard of or imagined before.
+On this server, so many different perspectives and ways of thinking I see and hear.
+I'm really happy I found this server!
+People are kind, knowledgeable and really inspiring.
+Thank you guys very much for opening my eyes always <3
+
+___
+
+### December 29 - Kaito <a name="29"></a>
+<img src="./docs/Avatars/Kaito.gif" width="50" height="50" />
+
+#### 2018年12月30日の海翔の経験についてのアドカレです（訂正してくれると助かります）
+
+2018年はもうすぐ終りますね。2018年はどうでした？
+
+私にとっての2018年はいい年でしたよ。友達がたくさんできた、リアルにもこのサーバにも。
+
+もしかしたら知らない方々もいるかもしれませんが（広告しましたけどｗ）先週の火曜日、なんと、クリスマスの日が私の誕生日でした。2 <img src="./docs/Emojis/PengBeak.png" height="17px" /> 歳になりました！
+
+従兄弟とおばさんたちが来て、ゲームを遊んで、プレゼントをもらって、ハッピーバースデーを言ってもらえるのは凄く嬉しかったです。
+
+あるショッピングモールの抽選がありました。「あなたのクリスマスの願いは何」という質問に答えたら参加出来ます。私のおかあさんはその抽選で当たりました！商品としてそのモールは日韓レストランでのビュッフェを用意しました。先週の金曜日にもう一度おばさんたちと会ってレストランでディナーをしまた。いい料理でしたよ！
+
+今年は終わってもまた新たな年がやってきます。今年の思い出を大切にしてて来年に新しい思い出を作りましょう！
+
+皆さん、良いお年を！
+
+___
+
+### December 30 - Zappi <a name="30"></a>
+<img src="./docs/Avatars/Zappi.jpg" width="50" height="50" />
+
+Skipped due to sickness.
+
+___
+
+### December 31 - 蟻隠 <a name="31"></a>
+<img src="./docs/Avatars/Ariin.jpg" width="50" height="50" />
+
+#### アドベントカレンダー
+##### 2018年12月31
+
+今日は私が書く番です！
+
+まだ初心者です。それから、私は少し怖いです。初めて、多くの人が私の作文を読むからですか?
+たぶん。
+今日、バンジージャンプのような物をします！<img src="./docs/Emojis/rooScared.png" height="17px" />
+
+２年近く前から、日本語を勉強しています。始めには、日本語のアニメーションを見ていましたけどフランス語で字幕を読まなければならなかったです。
+
+この日から、漢字で言葉を書いて、簡単ニュースを読んで、テレビ番組とアニメを聞いていました。毎日を練習しました。
+
+まず、「日本語は本当に難しいです」と言いました。
+まだ今も。
+
+1年半後で、日本語で初めて話すのができます！夢が現実になりましたと思います。
+だからこそ明日、そろそろ日本語を書き方、読むこと、分かる方法と喋るをもう少し簡単見つけると言います。
+
+来年の夏休み、５週間には東京に住んでいきます。会話の授業を勉強するのために日本語学校に行きたいです。頭の中に、遠いもう一つの夢があるから、良い経験になりますね！
+
+これが私の2019新年の抱負です。<img src="./docs/Emojis/rooHappy.png" height="17px" />
+
+今、私の物語はもう終わりましたのに、来年の終わりまでアドベントカレンダーの最後ページを閉めます。
+
+読んでくれてありがとうごさいます。間違いがあったら手伝ってください。🙇
+
+ではでは皆さん、今一緒にたくさん楽しんでの時間いますね！！🍾 🎉
+
+そして遂に今夜真夜中には、「明けましておめでとうございます！」言うのを忘れないでください！<img src="./docs/Emojis/yay.png" height="17px" />
+
+<br><br>
+
+## Week Four・第４週目 
+
+### January 1 - Riri
+<img src="./docs/Avatars/Riri.jpg" width="50" height="50" />
+
+#### アドベントカレンダー 　
+##### ０１日０１月２０１９年
+
+明けましておめでとう〜ＥＪＬＸの皆さん
+何を話せばいいか分からなかったけど結局新年の抱負にした、短くてごめんなさい、書くのがちょっと下手だから、日本語ならなおさら <img src="./docs/Emojis/blobSweat.png" height="17px" />
+
+昨年は私にとって実につらい年だった… 表は大丈夫に見えるけど実はいつもいろんな不安や苦しみを胸に秘めている。私の家族がいつか離ればなれになってもおかしくない状態で、私は今でもうつ病と戦っている、それ故学校に行くのもきつい。
+
+それでもそばにいてくれる人たちがいる、時々私はちょっと冷淡だけど友達や家族がこんな私を見捨てないとは本当に感謝している。このアドベントカレンダーでこの話したかった理由は、このサーバーにも私を支えてくれるいい友達にであったから、自信と自愛少しでも取り戻すのができたならほとんどこのサーバーの皆のおかげだと思うからここに入って本当によかった。
+
+新年の抱負: 精神的にもっと強くなりたいと望んでいる、そしていつも支えてくれる皆になにかを返すために頑張りたいと思う（そしてもちろん日本語にもっと上手になるためにも頑張るから応援してくださいねww）
+
+昨年はお世話になりました、これからも皆さんと幸せな日々を過ごすことを願っています  <img src="./docs/Emojis/rayHuggu.png" height="17px" />
+
+___
+
+### January 1 - Ririnne <a name="1"></a>
+<img src="./docs/Avatars/Ririnne.jpg" width="50" height="50" />
+
+#### アドベントカレンダー
+##### ２０１９年０１月０１日
+
+ペルソナに愛しているにもかかわらず、私の好きなゲームシリーズは逆転裁判ですよ。大逆転裁判のことを聞いたとき、ゲームはアメリカで販売されるのを楽しみに待っていました。でも、大逆転裁判は英語に翻訳されたことがありませんでした。がっかりしましたが、ただそれを受け入れ、シリーズの残りの部分に進むことにしました。 しかし、２年後に大逆転裁判２が公開されました。それからイライラしました。発売から１年ちょっと経ってやっと決心して日本語を勉強することにしました。
+
+すぐにひらがなとカタカナを覚えたので自信がついました。日本語を学ぶのは簡単つもりだと思っていたが、少ししか覚えていませんでした。日本語で漫画を読んだり、ゲームをしたりするのは大変でした。日本語を上手な人がうらやましくなり、私が早く日本語を学べないと悲しくなりました。
+
+諦めかけていたところ、１１月の終わりにペルソナQ２がリリースされました。ペルソナQ２の宣伝とサウンドトラックは日本語学習に挑戦する動機付けを与えてくれました。もっと熱心に勉強して、もっと練習しました。 私の日本語は上達し、日本語の読みやすくなった。 やっとクリスマスにペルソナQ２（大逆転裁判員はどこにも買えませんでした。。）を購入し、到着を心待ちにしています。私の新年の決意はペルソナQ２で遊び、辞書を使う必要がない日本語レベルにまで達することです。

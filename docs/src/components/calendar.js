@@ -59,7 +59,7 @@ var calendarComponent = {
     <div class="calendar__row">
       <a class="calendar__cell calendar__cell--clickable" href="#30">30</a>
       <a class="calendar__cell calendar__cell--clickable" href="#31">31</a>
-      <div class="calendar__cell calendar__cell--disabled">1</div>
+      <a class="calendar__cell calendar__cell--clickable" href="#1">1</a>
       <div class="calendar__cell calendar__cell--disabled">2</div>
       <div class="calendar__cell calendar__cell--disabled">3</div>
       <div class="calendar__cell calendar__cell--disabled">4</div>
